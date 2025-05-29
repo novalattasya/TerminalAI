@@ -2,7 +2,7 @@
 
 ![Demo](image/1748519395690.jpg)
 
-This open-source project is perfect for developers, students, and hobbyists who want to build their own AI assistant or experiment with LLM interfaces.
+For AI assistant or experiment with LLM interfaces.
 
 ## 🌟 Features
 
